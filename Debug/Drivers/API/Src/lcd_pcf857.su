@@ -1,0 +1,5 @@
+../Drivers/API/Src/lcd_pcf857.c:26:6:LCD_I2C_init	8	static
+../Drivers/API/Src/lcd_pcf857.c:63:6:LCD_I2C_cmd	24	static
+../Drivers/API/Src/lcd_pcf857.c:84:6:LCD_I2C_char	24	static
+../Drivers/API/Src/lcd_pcf857.c:104:6:LCD_I2C_write_text	16	static
+../Drivers/API/Src/lcd_pcf857.c:117:13:delayLcd	16	static

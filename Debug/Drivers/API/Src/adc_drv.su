@@ -1,0 +1,2 @@
+../Drivers/API/Src/adc_drv.c:22:14:adcInit	24	static
+../Drivers/API/Src/adc_drv.c:63:14:adcReadRaw	16	static

@@ -1,0 +1,7 @@
+../Drivers/API/Src/sensor_fsm.c:41:7:sensorGetTemperature	1
+../Drivers/API/Src/sensor_fsm.c:51:6:sensorFsmInit	1
+../Drivers/API/Src/sensor_fsm.c:62:6:sensorSetSetpoint	1
+../Drivers/API/Src/sensor_fsm.c:72:6:sensorSetHysteresis	1
+../Drivers/API/Src/sensor_fsm.c:81:7:sensorGetSetpoint	1
+../Drivers/API/Src/sensor_fsm.c:90:7:sensorGetHysteresis	1
+../Drivers/API/Src/sensor_fsm.c:105:6:sensorFsmUpdate	11

@@ -1,0 +1,7 @@
+../Drivers/API/Src/uart_fsm.c:45:6:uartFsmInit	8	static
+../Drivers/API/Src/uart_fsm.c:55:6:uartFsmUpdate	16	static
+../Drivers/API/Src/uart_fsm.c:126:13:uartResetBuffer	8	static
+../Drivers/API/Src/uart_fsm.c:132:13:uartProcessCommand	120	static
+../Drivers/API/Src/uart_fsm.c:188:13:uartSendHelp	8	static
+../Drivers/API/Src/uart_fsm.c:200:13:uartSendStatus	128	static
+../Drivers/API/Src/uart_fsm.c:222:13:uartError	80	static
